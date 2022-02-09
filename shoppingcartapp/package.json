@@ -1,7 +1,7 @@
 {
-  "name": "contactbookapp",
+  "name": "shoppingcartapp",
   "version": "1.0.0",
-  "description": "JSDOM - Contact app",
+  "description": "JSDOM - Shopping cart app",
   "main": "index.js",
   "scripts": {
     "start": "parcel --port=3500 public/index.html",
